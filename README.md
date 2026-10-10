@@ -1,4 +1,4 @@
-# 1st Rate Parts — web app
+# 1st Rate HQ — web app
 
 Upload everything in this folder to the root of the GitHub repo, then turn on GitHub Pages:
 Settings → Pages → Source: Deploy from a branch → main / (root) → Save.

@@ -1,6 +1,6 @@
 {
-  "name": "1st Rate Appliance Parts",
-  "short_name": "1st Rate Parts",
+  "name": "1st Rate HQ",
+  "short_name": "1st Rate HQ",
   "start_url": "./?screen=8a",
   "scope": "./",
   "display": "standalone",
